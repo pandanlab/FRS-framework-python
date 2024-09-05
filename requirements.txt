@@ -1,0 +1,4 @@
+Pillow
+watchdog
+pyinstaller
+pyserial
